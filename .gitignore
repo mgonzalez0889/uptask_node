@@ -1,2 +1,9 @@
 // ignore node_modules
 node_modules
+
+
+//Variables de entorno
+.env
+
+//Otros
+.DS_Store
